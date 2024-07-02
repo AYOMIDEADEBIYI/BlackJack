@@ -1,0 +1,69 @@
+/* body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: green;
+    font-weight: bold;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+#message-el {
+    font-size: italic;
+}
+
+ button {
+    color: #016f32;
+    width: 150px;
+    background-color: goldenrod;
+    padding: 20px;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+ }
+ .new {
+    margin-top: 8px;
+ }
+h2 {
+    color: white;
+}
+.box {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    margin-top: 20%;
+    
+} */
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    /* background-image: url("images/table.png"); */
+    background-color: #016f32;
+    background-size: cover;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+/* 3. Make sure that the two buttons have some space between
+each other when they are rendered out vertically */
+button {
+    color: #016f32;
+    width: 150px;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
